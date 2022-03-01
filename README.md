@@ -1,7 +1,7 @@
 # About me
 Hello Everyone,
 I am Darshan Vishnu Khapekar, a student having a ambition to be a Developer having a noble contribution in the field of Technology.
-Connect me [link](https://www.instagram.com/darshan.1137/)
+[Connect me](https://www.instagram.com/darshan.1137/)
 
 # My-Snake-Game
 -This is one of my few worthy projects. 
